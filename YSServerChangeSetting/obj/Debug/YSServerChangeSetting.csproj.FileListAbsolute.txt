@@ -1,0 +1,14 @@
+E:\Databases\PROJECT\VS\YSServerChangeSetting\YSServerChangeSetting\bin\Debug\YSServerChangeSetting.exe.config
+E:\Databases\PROJECT\VS\YSServerChangeSetting\YSServerChangeSetting\bin\Debug\YSServerChangeSetting.exe
+E:\Databases\PROJECT\VS\YSServerChangeSetting\YSServerChangeSetting\bin\Debug\YSServerChangeSetting.pdb
+E:\Databases\PROJECT\VS\YSServerChangeSetting\YSServerChangeSetting\obj\Debug\YSServerChangeSetting.csproj.AssemblyReference.cache
+E:\Databases\PROJECT\VS\YSServerChangeSetting\YSServerChangeSetting\obj\Debug\YSServerChangeSetting.csproj.SuggestedBindingRedirects.cache
+E:\Databases\PROJECT\VS\YSServerChangeSetting\YSServerChangeSetting\obj\Debug\YSServerChangeSetting.Form1.resources
+E:\Databases\PROJECT\VS\YSServerChangeSetting\YSServerChangeSetting\obj\Debug\YSServerChangeSetting.Properties.Resources.resources
+E:\Databases\PROJECT\VS\YSServerChangeSetting\YSServerChangeSetting\obj\Debug\YSServerChangeSetting.csproj.GenerateResource.cache
+E:\Databases\PROJECT\VS\YSServerChangeSetting\YSServerChangeSetting\obj\Debug\YSServerChangeSetting.csproj.CoreCompileInputs.cache
+E:\Databases\PROJECT\VS\YSServerChangeSetting\YSServerChangeSetting\obj\Debug\YSServerChangeSetting.exe
+E:\Databases\PROJECT\VS\YSServerChangeSetting\YSServerChangeSetting\obj\Debug\YSServerChangeSetting.pdb
+E:\Databases\PROJECT\VS\YSServerChangeSetting\YSServerChangeSetting\bin\Debug\Newtonsoft.Json.dll
+E:\Databases\PROJECT\VS\YSServerChangeSetting\YSServerChangeSetting\bin\Debug\Newtonsoft.Json.xml
+E:\Databases\PROJECT\VS\YSServerChangeSetting\YSServerChangeSetting\obj\Debug\YSServerChangeSetting.csproj.CopyComplete
